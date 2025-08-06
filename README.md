@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/1033021985.svg)](https://doi.org/10.5281/zenodo.16751339)
+
 # github-follower-checker
 A cross-platform C++ application that analyzes your GitHub followers and identifies users who are not following you back. This tool provides an interactive terminal interface with secure authentication and presents results in a clean tabular format.
 
