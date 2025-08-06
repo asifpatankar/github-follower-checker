@@ -60,7 +60,7 @@ vcpkg install curl nlohmann-json
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/github-follower-checker.git
+git clone https://github.com/asifpatankar/github-follower-checker.git
 cd github-follower-checker
 ```
 
