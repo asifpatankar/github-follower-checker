@@ -230,13 +230,7 @@ This project is available under a dual licensing model:
 For academic, personal, and non-commercial use, this project is available under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Commercial Use
-For commercial use, including but not limited to using this code in commercial products, services, or any revenue-generating activities, please contact asifpatankar@rocketmail.com to obtain a commercial license.
-
-Commercial users have the following options:
-- One-time licensing fee
-- Revenue sharing arrangement  
-- Repository sponsorship
-- Custom licensing terms
+For commercial use, please see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for detailed terms and contact information.
 
 All commercial inquiries will be handled on a case-by-case basis.
 
